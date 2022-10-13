@@ -22,7 +22,7 @@ public:
         dfs(root);
         auto it = s.begin();
         it++;
-        if(s.size() >= 2) return *it;        
+        if(s.size() >= 2) return *it;       
         return -1;
     }
 };
