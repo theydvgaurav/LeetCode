@@ -1,1 +1,1 @@
-​
+instead of making the ptr null, try to return null
