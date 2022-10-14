@@ -14,10 +14,10 @@ public:
     int sum = 0;
     void solve(TreeNode*root){
         if(root==NULL) return;
-        solve(root->left);
-        solve(root->right);
         if(root->left)
             if(!root->left->left && !root->left->right) sum += root->left->val;
+        solve(root->left);
+        solve(root->right);
     }
         
     int sumOfLeftLeaves(TreeNode* root) {
