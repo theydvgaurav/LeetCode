@@ -14,11 +14,11 @@ public:
     // string res = "";
     string preorder(TreeNode*root){
         if(root==NULL) return " ";
-        string s = to_string(root->val);
+        string s = to_string(root->val); 
         string l = preorder(root->left);
         string r = preorder(root->right);
         if(l[0]!=' ') s+="(" + l + ")";
-        else if(l[0]==' ' && r[0]!=' ') s+="()";
+        else if (l[0]==' ' && r[0]!=' ') s+="()";
         if(r[0]!=' ') s+="(" + r + ")";
         return s;
     }
