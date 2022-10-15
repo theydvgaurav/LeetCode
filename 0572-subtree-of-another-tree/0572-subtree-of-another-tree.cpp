@@ -24,6 +24,7 @@ public:
        if(root->val==subRoot->val){
            cout << root->val << " -x- " << subRoot->val;
             flag = flag || isSameTree(root,subRoot);
+           if(flag) return;
        }
        solve(root->left,subRoot); 
        solve(root->right,subRoot); 
@@ -32,11 +33,8 @@ public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
        
         if(!root && !subRoot) return true;
-         // cout << root->val << " -gh- " << subRoot->val << endl;
         if(root && !subRoot) return true;
-         // cout << root->val << " -2- " << subRoot->val << endl;
         if(!root && subRoot) return false;
-         // cout << root->val << " -3- " << subRoot->val << endl;
         solve(root,subRoot);
         return flag;
     }
