@@ -1,2 +1,3 @@
 278-first-bad-version|Easy|1741285800000
 2379-minimum-recolors-to-get-k-consecutive-black-blocks|Easy|1741458600000
+3208-alternating-groups-ii|Medium|1741458600000
