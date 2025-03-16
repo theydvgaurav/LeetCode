@@ -2,3 +2,4 @@
 2379-minimum-recolors-to-get-k-consecutive-black-blocks|Easy|1741458600000
 3208-alternating-groups-ii|Medium|1741458600000
 3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii|Medium|1741631400000
+2594-minimum-time-to-repair-cars|Medium|1742063400000
