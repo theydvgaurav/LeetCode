@@ -5,3 +5,4 @@
 2594-minimum-time-to-repair-cars|Medium|1742063400000
 2226-maximum-candies-allocated-to-k-children|Medium|1742063400000
 74-search-a-2d-matrix|Medium|1742063400000
+540-single-element-in-a-sorted-array|Medium|1742063400000
