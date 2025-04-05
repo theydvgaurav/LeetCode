@@ -9,3 +9,4 @@
 2206-divide-array-into-equal-pairs|Easy|1742149800000
 3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i|Medium|1742322600000
 49-group-anagrams|Medium|1743791400000
+128-longest-consecutive-sequence|Medium|1743791400000
