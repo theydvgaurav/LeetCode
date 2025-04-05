@@ -8,7 +8,7 @@ public:
                 int j = it;
                 int cnt = 1;
                 while(st.find(j+1)!=st.end()){
-                    j=j+1;
+                    j++;
                     cnt++;
                 }
                 res=max(res,cnt);
