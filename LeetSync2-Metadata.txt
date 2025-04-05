@@ -8,3 +8,4 @@
 540-single-element-in-a-sorted-array|Medium|1742063400000
 2206-divide-array-into-equal-pairs|Easy|1742149800000
 3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i|Medium|1742322600000
+49-group-anagrams|Medium|1743791400000
