@@ -14,3 +14,4 @@
 198-house-robber|Medium|1744655400000
 231-power-of-two|Easy|1744655400000
 70-climbing-stairs|Easy|1744655400000
+121-best-time-to-buy-and-sell-stock|Easy|1744655400000
