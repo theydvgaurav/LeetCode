@@ -18,3 +18,4 @@
 322-coin-change|Medium|1744741800000
 338-counting-bits|Easy|1744828200000
 746-min-cost-climbing-stairs|Easy|1744828200000
+45-jump-game-ii|Medium|1744914600000
