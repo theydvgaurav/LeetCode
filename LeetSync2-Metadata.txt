@@ -20,3 +20,4 @@
 746-min-cost-climbing-stairs|Easy|1744828200000
 45-jump-game-ii|Medium|1744914600000
 55-jump-game|Medium|1744914600000
+1807-evaluate-the-bracket-pairs-of-a-string|Medium|1745001000000
