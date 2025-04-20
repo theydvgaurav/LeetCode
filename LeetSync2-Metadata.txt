@@ -21,3 +21,4 @@
 45-jump-game-ii|Medium|1744914600000
 55-jump-game|Medium|1744914600000
 1807-evaluate-the-bracket-pairs-of-a-string|Medium|1745001000000
+139-word-break|Medium|1745087400000
