@@ -2,8 +2,11 @@ class Solution {
 public:
     void solve(vector<int> candidates, int target, int idx, int curr_sum, vector<vector<int>> &res, vector<int> &temp){
         if (curr_sum > target) return;
+        if(target == curr_sum){
+            res.push_back(temp);
+            return;
+        }
         if (idx >= candidates.size()){
-            if(target == curr_sum) res.push_back(temp);
             return;
         }
         // picking -> not increasing the idx because I can pick any element any number of times
