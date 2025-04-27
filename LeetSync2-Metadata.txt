@@ -24,3 +24,4 @@
 139-word-break|Medium|1745087400000
 213-house-robber-ii|Medium|1745173800000
 860-lemonade-change|Easy|1745605800000
+39-combination-sum|Medium|1745692200000
