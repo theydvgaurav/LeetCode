@@ -26,3 +26,4 @@
 860-lemonade-change|Easy|1745605800000
 39-combination-sum|Medium|1745692200000
 40-combination-sum-ii|Medium|1745951400000
+994-rotting-oranges|Medium|1746037800000
