@@ -28,3 +28,4 @@
 40-combination-sum-ii|Medium|1745951400000
 994-rotting-oranges|Medium|1746037800000
 131-palindrome-partitioning|Medium|1746124200000
+46-permutations|Medium|1746469800000
