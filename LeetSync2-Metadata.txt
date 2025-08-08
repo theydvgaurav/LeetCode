@@ -32,3 +32,4 @@
 47-permutations-ii|Medium|1746469800000
 238-product-of-array-except-self|Medium|1748716200000
 1-two-sum|Easy|1752863400000
+547-number-of-provinces|Medium|1754591400000
