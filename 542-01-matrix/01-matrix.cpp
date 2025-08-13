@@ -30,12 +30,7 @@ public:
                 }
             }
         }
-        for (auto itr : dis) {
-            for (auto it : itr) {
-                cout << it << " ";
-            }
-            cout << "\n";
-        }
+
         return dis;
     }
 };
