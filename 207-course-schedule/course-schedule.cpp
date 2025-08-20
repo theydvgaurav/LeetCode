@@ -1,12 +1,6 @@
 class Solution {
 public:
-    int bfs(int n, vector<vector<int>>& adj) {
-        vector<int> indeg(n, 0);
-        for (auto it : adj) {
-            for (auto itr : it) {
-                indeg[itr]++;
-            }
-        }
+    int bfs(int n, vector<int>& indeg, vector<vector<int>>& adj) {
         queue<int> q;
         for (int i = 0; i < n; i++) {
             if (indeg[i] == 0) {
@@ -29,9 +23,12 @@ public:
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
+        vector<int> indeg(numCourses, 0);
         for (auto it : prerequisites) {
-            adj[it[0]].push_back(it[1]);
+            int u = it[0], v = it[1];
+            adj[u].push_back(v);
+            indeg[v]++;
         }
-        return (bfs(numCourses, adj) == numCourses);
+        return (bfs(numCourses, indeg, adj) == numCourses);
     }
 };
