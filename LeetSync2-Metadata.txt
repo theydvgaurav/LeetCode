@@ -41,3 +41,4 @@
 210-course-schedule-ii|Medium|1755628200000
 802-find-eventual-safe-states|Medium|1755714600000
 3195-find-the-minimum-area-to-cover-all-ones-i|Medium|1755801000000
+3000-maximum-area-of-longest-diagonal-rectangle|Easy|1756146600000
