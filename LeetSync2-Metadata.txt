@@ -46,3 +46,4 @@
 417-pacific-atlantic-water-flow|Medium|1759602600000
 2-add-two-numbers|Medium|1760898600000
 2011-final-value-of-variable-after-performing-operations|Easy|1760898600000
+2043-simple-bank-system|Medium|1761417000000
