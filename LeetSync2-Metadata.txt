@@ -47,3 +47,4 @@
 2-add-two-numbers|Medium|1760898600000
 2011-final-value-of-variable-after-performing-operations|Easy|1760898600000
 2043-simple-bank-system|Medium|1761417000000
+1716-calculate-money-in-leetcode-bank|Easy|1761417000000
